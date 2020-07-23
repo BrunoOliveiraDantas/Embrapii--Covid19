@@ -38,6 +38,6 @@ Caso constrário, acesse os links para instalar o [Docker](https://docs.docker.c
   As rotas do projeto são:
   
   - "/patients" - destinada a Criar e Listar de elementos;
-  - "/patients-edit" - destinada a Editar e Deletar os elementos;
+  - "/patients-edit/idPatient" - destinada a Editar e Deletar os elementos;
   
 
